@@ -22,6 +22,6 @@ At this point the analysis was moved to R (Rstudio), which is the best interface
 5) A volcano plot was generated
 6) (Optional: A .xlsx file was saved in the working directory with the results file.)
 
-I have also included the fastqc files and a pdf file with the plots I generated, as well as the 5 most differentially expressed genes. 
+I have also included a pdf file with the plots I generated, as well as the 5 most differentially expressed genes. 
 
 Due to the low annotation of the canadian horseweed genome, a gene symbol could not be assigned to each locus tag, so the results file has the locus tags. 
